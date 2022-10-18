@@ -1,0 +1,7 @@
+pillow
+opencv_python
+pyautogui
+cairosvg
+paddleocr
+paddlepaddle
+numpy
